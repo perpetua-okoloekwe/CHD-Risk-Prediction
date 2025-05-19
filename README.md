@@ -64,7 +64,7 @@ This project predicts the **10-year risk of Coronary Heart Disease (CHD)** using
 
 **Perpetua Okoloekwe**  
 Data Scientist | Nebiant Master Data Science Programme  
-[LinkedIn Profile](https://www.linkedin.com/in/perpetua-okoloekwe)
+[LinkedIn Profile](www.linkedin.com/in/perpetua-okoloekwe-93b21134a)
 
 ---
 
